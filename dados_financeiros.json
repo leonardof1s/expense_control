@@ -1,0 +1,40 @@
+{
+    "entradas": [
+        {
+            "descricao": "uber Ni",
+            "valor": 100.0
+        },
+        {
+            "descricao": "Uber Vivi",
+            "valor": 220.0
+        },
+        {
+            "descricao": "calcao",
+            "valor": 500.0
+        },
+        {
+            "descricao": "Salario",
+            "valor": 2624.69,
+            "categoria": "Salario"
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": 750.0,
+            "categoria": "Outros"
+        }
+    ],
+    "gastos": [
+        {
+            "descricao": "aluguel",
+            "valor": 533.0
+        },
+        {
+            "descricao": "cartao santander",
+            "valor": 894.86
+        },
+        {
+            "descricao": "pneus",
+            "valor": 350.0
+        }
+    ]
+}
