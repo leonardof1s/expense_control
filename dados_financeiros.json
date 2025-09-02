@@ -1,40 +1,79 @@
 {
     "entradas": [
         {
-            "descricao": "uber Ni",
-            "valor": 100.0
-        },
-        {
-            "descricao": "Uber Vivi",
-            "valor": 220.0
-        },
-        {
-            "descricao": "calcao",
-            "valor": 500.0
-        },
-        {
-            "descricao": "Salario",
-            "valor": 2624.69,
+            "descricao": "salario",
+            "valor": 2700.0,
             "categoria": "Salario"
         },
         {
-            "descricao": "Aluguel",
+            "descricao": "aluguel",
             "valor": 750.0,
+            "categoria": "Outros"
+        },
+        {
+            "descricao": "Edio",
+            "valor": 150.0,
             "categoria": "Outros"
         }
     ],
     "gastos": [
         {
             "descricao": "aluguel",
-            "valor": 533.0
+            "valor": 533.0,
+            "categoria": "Moradia"
         },
         {
-            "descricao": "cartao santander",
-            "valor": 894.86
+            "descricao": "emprestimo",
+            "valor": 325.42,
+            "categoria": "Outros"
         },
         {
-            "descricao": "pneus",
-            "valor": 350.0
+            "descricao": "financiamento",
+            "valor": 973.82,
+            "categoria": "Outros"
+        },
+        {
+            "descricao": "sanepar",
+            "valor": 100.0,
+            "categoria": "Moradia"
+        },
+        {
+            "descricao": "copel",
+            "valor": 160.0,
+            "categoria": "Moradia"
+        },
+        {
+            "descricao": "estacionamento/gasolina",
+            "valor": 150.0,
+            "categoria": "Transporte"
+        },
+        {
+            "descricao": "Havan",
+            "valor": 437.02,
+            "categoria": "Outros"
+        },
+        {
+            "descricao": "nubank",
+            "valor": 265.66,
+            "categoria": "cartao"
+        },
+        {
+            "descricao": "Santander",
+            "valor": 606.28,
+            "categoria": "cartao"
         }
+    ],
+    "categorias_entradas": [
+        "Salario",
+        "Investimentos",
+        "Freelance",
+        "Outros"
+    ],
+    "categorias_gastos": [
+        "Alimentcao",
+        "Transporte",
+        "Moradia",
+        "Lazer",
+        "Outros"
     ]
 }
